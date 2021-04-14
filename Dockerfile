@@ -1,5 +1,6 @@
 FROM python:3.7-alpine
 WORKDIR /app
+RUN apk add --no-cache gcc musl-dev
 COPY requirements.txt requirements.txt
 RUN pip install -I -r requirements.txt
 VOLUME ["/docs"]
