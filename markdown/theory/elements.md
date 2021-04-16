@@ -11,7 +11,7 @@ Please also review the [AuxEng project structure](../running_engagements/overvie
 
 ### Free Fridays
 
-Your auxiliary engineer should work with their host team from Monday to Thursday. 
+Your auxiliary engineer should work with their host team from Monday to Thursday.
 On Fridays they should be working on self directed projects relating to their time with the host team.
 
 This is important for two reasons. First, it is really easy to get burnt out doing AuxEng five days a week.
@@ -21,7 +21,7 @@ If the auxiliary engineer doesn't have time to bring back user feedback to your 
 
 ### 10 Week Project Duration
 
-AuxEng is about committing to an ambitious goal, and then partnering with a team to deliver it quickly with high code quality. Ambitious goals generally take a quarter. 
+AuxEng is about committing to an ambitious goal, and then partnering with a team to deliver it quickly with high code quality. Ambitious goals generally take a quarter.
 
 Beyond that, it takes about 8 weeks to pick up a new habit, so a 10 week engagement gives enough time for new coding habits to settle in.
 
@@ -30,19 +30,19 @@ Beyond that, it takes about 8 weeks to pick up a new habit, so a 10 week engagem
 We hold weekly 30 minute retros specific to the AuxEng project. This is in addition to any retros the host team is running. We hold them even when there is "nothing to talk about". We take notes and send them out to all participants. We keep the retro notes in git so we can reference back to them at any point in the future.
 
 We hold the weekly retro at the same time every week, and end the retro early when we run out of things to talk about.
-We stress that we value negative feedback, and we try to address the feedback as soon as possible to build trust. 
+We stress that we value negative feedback, and we try to address the feedback as soon as possible to build trust.
 
 ### Measurable Goals
 
-We build out measurable OKR-like goals with the host team **before starting a project.** 
+We build out measurable OKR-like goals with the host team **before starting a project.**
 We revisit the goals every week in the retro and discuss the measured progress.
 
-This clarity on the project goals is very important; it normally eliminates weeks of wasted work. 
+This clarity on the project goals is very important; it normally eliminates weeks of wasted work.
 [Here is an example](https://docs.google.com/document/d/1B7V_cuV_37koAvSh0GjdFEK7CJFje-jcwidKRzKJoMc/edit) of goals we've worked out for a project we completed with Virtual Media.
 
 ### Deliver Value in Production
 
-We focus on delivering value in production as soon as possible after starting an engagement. 
+We focus on delivering value in production as soon as possible after starting an engagement.
 We generally get a high quality MVP in production within the first two weeks.
 Features that aren't in production are not finished!
 
