@@ -1,0 +1,10 @@
+contribs
+OSPO
+Wayfair
+Wayfairian
+Wayfairians
+choosealicense
+walkthroughs
+maintainership
+undermaintained
+unarchived
