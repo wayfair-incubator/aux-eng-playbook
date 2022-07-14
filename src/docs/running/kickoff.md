@@ -3,15 +3,15 @@ title: "Kickoff"
 featured: ./images/featured/example.png
 ---
 
-- Dirsruption / Habbit setting
+- Disruption / Habit setting
     - Figure out early what patterns we want to change
     - Start changing behaviors
     - Make any big changes early
         - Prioritizing reviews
         - Investing in pipelines / tests
-        - Code formating / linting changes
+        - Code formatting / linting changes
         - Now is the time to disrupt
-    - Reinforce habbits
+    - Reinforce habits
         - Spend 2+ months reinforcing habits / technology usage
         - Try not to introduce large behavioral changes towards middle/end
 - Weekly Retros
@@ -32,7 +32,7 @@ featured: ./images/featured/example.png
         - If you hold retros on thursday, this information is very fresh
     - An example:
         - Documentation is generally not the most enjoyable work
-            - often easy to deprioritize
+            - often easy to de-prioritize
         - If you see someone struggle due to lack of documentation, and it comes up in a retro:
             - Taking immediate action feels rewarding
             - You understand the actual gap with real feedback

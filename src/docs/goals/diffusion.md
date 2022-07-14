@@ -31,4 +31,4 @@ A new hire is a great way to bring this fresh perspective to a domain, but a new
 
 When someone is invited to join a team as part of an Aux Engagement, they benefit from their existing domain knowledge within the organization, and their temporary role makes them less likely to be perceived, even unconsciously, as a threat to existing engineers.
 
-For this to be effective, it is important that the auxilliary engineer be brought on with the appropriate context and buy-in from the team. See: Framing the engagement.
+For this to be effective, it is important that the auxiliary engineer be brought on with the appropriate context and buy-in from the team. See: Framing the engagement.

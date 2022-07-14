@@ -8,3 +8,5 @@ walkthroughs
 maintainership
 undermaintained
 unarchived
+Truslow
+auxeng
