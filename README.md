@@ -27,7 +27,7 @@ yarn develop
 Plenty of information may show, but you should eventually see something like:
 
 ```shell
-You can now view gatsby-starter-default in the browser.
+You can now view AuEngDocs in the browser.
 
   http://localhost:8000/
 
