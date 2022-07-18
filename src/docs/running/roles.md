@@ -1,6 +1,6 @@
 ---
 title: "Roles"
-featured: ./images/featured/running.png
+featured: ../images/featured/running.png
 ---
 
 # Auxiliary Engineering Roles

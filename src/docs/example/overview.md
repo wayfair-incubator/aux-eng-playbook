@@ -1,6 +1,6 @@
 ---
 title: "Work In Progress Notes"
-featured: ./images/featured/example.png
+featured: ../images/featured/example.png
 ---
 
 ## WORK IN PROGRESS NOTES

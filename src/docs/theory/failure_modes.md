@@ -1,6 +1,6 @@
 ---
 title: "Failure Modes"
-featured: ./images/featured/running.png
+featured: ../images/featured/theory.png
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Engagement Expectations"
-featured: ./images/featured/example.png
+featured: ../images/featured/running.png
 ---
 
 ## WORK IN PROGRESS NOTES

@@ -1,6 +1,6 @@
 ---
 title: "Organizational"
-featured: ./images/featured/example.png
+featured: ../images/featured/goals.png
 ---
 
 ## Increase Organizational Learning

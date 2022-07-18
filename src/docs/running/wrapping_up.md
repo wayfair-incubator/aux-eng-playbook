@@ -1,6 +1,6 @@
 ---
 title: "Wrapping Up"
-featured: ./images/featured/running.png
+featured: ../images/featured/running.png
 ---
 
 

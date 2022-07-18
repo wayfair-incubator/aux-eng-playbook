@@ -1,6 +1,6 @@
 ---
 title: "Iteration"
-featured: ./images/featured/example.png
+featured: ../images/featured/running.png
 ---
 
 

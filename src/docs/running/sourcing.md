@@ -1,6 +1,6 @@
 ---
 title: "Sourcing"
-featured: ./images/featured/running.png
+featured: ../images/featured/running.png
 ---
 
 

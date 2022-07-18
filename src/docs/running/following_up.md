@@ -1,6 +1,6 @@
 ---
 title: "Effective Following Up"
-featured: ./images/featured/example.png
+featured: ../images/featured/running.png
 ---
 
 ## WORK IN PROGRESS NOTES

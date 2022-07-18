@@ -1,6 +1,6 @@
 ---
 title: "Career"
-featured: ./images/featured/example.png
+featured: ../images/featured/goals.png
 ---
 
 ## A New Senior Contributor Archetype

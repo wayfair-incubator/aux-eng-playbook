@@ -1,6 +1,6 @@
 ---
 title: "Marketing"
-featured: ./images/featured/running.png
+featured: ../images/featured/theory.png
 ---
 
 

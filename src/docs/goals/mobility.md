@@ -1,6 +1,6 @@
 ---
 title: "Mobility"
-featured: ./images/featured/example.png
+featured: ../images/featured/goals.png
 ---
 
 ## WORK IN PROGRESS NOTES

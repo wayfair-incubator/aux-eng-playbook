@@ -1,6 +1,6 @@
 ---
 title: "Kickoff"
-featured: ./images/featured/example.png
+featured: ../images/featured/running.png
 ---
 
 - Disruption / Habit setting

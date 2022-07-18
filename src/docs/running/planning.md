@@ -1,6 +1,6 @@
 ---
 title: "Planning"
-featured: ./images/featured/running.png
+featured: ../images/featured/running.png
 ---
 
 - OKR / goal setting

@@ -1,6 +1,6 @@
 ---
 title: "What's next?"
-featured: ./images/featured/running.png
+featured: ../images/featured/running.png
 ---
 
 

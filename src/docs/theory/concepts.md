@@ -1,6 +1,6 @@
 ---
 title: "Concepts"
-featured: ./images/featured/running.png
+featured: ../images/featured/theory.png
 ---
 
 # Auxiliary Engineering Concepts
