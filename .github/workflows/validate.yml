@@ -5,7 +5,9 @@ on:
 
 jobs:
   validate-build:
-    runs-on: node:14-alpine
+    runs-on: ubuntu-latest
+    container:
+      image: node:14-alpine
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
