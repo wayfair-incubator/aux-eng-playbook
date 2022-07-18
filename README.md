@@ -1,6 +1,6 @@
 # Aux Eng Docs
 
-A collection of documentation related to how Wayfair Engineering has implemented "Auxiliary Engineering"
+A collection of documentation related to how Wayfair Engineering has implemented "[Auxiliary Engineering](https://www.aboutwayfair.com/tech-innovation/what-is-auxiliary-engineering)"
 
 [![License: BSD 0-Clause](https://img.shields.io/badge/License-BSD%200--Clause-7462E0.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-24B8EE.svg)](CODE_OF_CONDUCT.md)
