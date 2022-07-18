@@ -7,7 +7,7 @@ A collection of documentation related to how Wayfair Engineering has implemented
 
 ## 🚀 Quick Start
 
-To get started editing this site, you'll need Node v12+. We recommend using [nvm](https://github.com/nvm-sh/nvm).
+To get started editing this site, you'll need Node v14+. We recommend using [nvm](https://github.com/nvm-sh/nvm).
 
 Once that's installed, you'll need [`yarn`](https://yarnpkg.com/) as well.
 
