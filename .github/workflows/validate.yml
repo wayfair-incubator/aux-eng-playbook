@@ -5,8 +5,7 @@ on:
 
 jobs:
   validate-build:
-    runs: 
-      using: node16
+    runs-on: node:14-alpine
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
