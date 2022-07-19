@@ -1,8 +1,0 @@
-mkdocs
-mkdocs_autodoc
-mkdocs-pandoc
-mkdocs-material
-mkdocs_tree
-markdown-urlize
-pygments
-markdown-include
