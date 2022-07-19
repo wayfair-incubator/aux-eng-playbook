@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wayfair-incubator.github.io/aux-eng/sitemap/sitemap-index.xml
+Host: https://wayfair-incubator.github.io
