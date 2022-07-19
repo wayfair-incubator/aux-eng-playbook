@@ -1,0 +1,46 @@
+---
+title: "Kickoff"
+featured: ../images/featured/running.png
+---
+
+- Disruption / Habit setting
+    - Figure out early what patterns we want to change
+    - Start changing behaviors
+    - Make any big changes early
+        - Prioritizing reviews
+        - Investing in pipelines / tests
+        - Code formatting / linting changes
+        - Now is the time to disrupt
+    - Reinforce habits
+        - Spend 2+ months reinforcing habits / technology usage
+        - Try not to introduce large behavioral changes towards middle/end
+- Weekly Retros
+    - Start with goal/OKR progress
+        - Metric the matters the most... what is it this week?
+        - Always call this out first, it keeps the team focused on outcomes
+    - Consider rotating responsibility of running the retro
+    - Encourage critical feedback
+        - Especially feedback on the platform itself
+    - Consider holding these on Thursday
+        - It leads into self directed Friday
+        - opportunity to take action on newly discovered quick wins
+- Using Fridays Effectively
+    - Fridays are 20% time with a few goals
+    - We covered 20% time in the previous section
+    - AuxEng has additional benefits
+    - It's time to address feedback received in retros
+        - If you hold retros on thursday, this information is very fresh
+    - An example:
+        - Documentation is generally not the most enjoyable work
+            - often easy to de-prioritize
+        - If you see someone struggle due to lack of documentation, and it comes up in a retro:
+            - Taking immediate action feels rewarding
+            - You understand the actual gap with real feedback
+            - The person who felt friction feels encouraged by the rapid support
+            - Everyone wins
+        - Contrast this to a backlog of documentation changes one has to burndown.
+    - Fridays also serve other benefits:
+        - Downtime from AuxEng projects
+        - Not be away from home team for too long. Keeps the person involved
+        - Provides a "minimal-disruptive" day to take off
+        - Provides time to think about the Platform-level of the auxeng project

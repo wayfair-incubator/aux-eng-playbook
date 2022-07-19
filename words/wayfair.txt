@@ -1,0 +1,14 @@
+contribs
+OSPO
+Wayfair
+Wayfairian
+Wayfairians
+choosealicense
+walkthroughs
+maintainership
+undermaintained
+unarchived
+Truslow
+auxeng
+pushback
+transformative

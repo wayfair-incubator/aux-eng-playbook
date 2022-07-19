@@ -1,9 +1,8 @@
-FROM python:3.7-alpine
+FROM node:14
 WORKDIR /app
-RUN apk add --no-cache gcc musl-dev
-COPY requirements.txt requirements.txt
-RUN pip install -I -r requirements.txt
-VOLUME ["/docs"]
-WORKDIR "/docs"
+COPY ./ /app/
+RUN yarn
+VOLUME "/src" /app/src
+WORKDIR "/app"
 EXPOSE 8000
-CMD ["mkdocs", "serve", "-a", "0.0.0.0:8000"]
+CMD ["yarn", "start"]
