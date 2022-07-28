@@ -1,10 +1,22 @@
 version: '3.8'
 
-
 services:
-  gatsby:
-    build: ./
+
+  # Run the gatsby server
+  # Usage: docker-compose up develop
+  develop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: gatsby develop -H 0.0.0.0
     ports:
       - "8000:8000"
-    volumes:
-      - .:/app/
+      - "9929:9929"
+
+  # Run gatsby CLI commands
+  # Usage: docker-compose run gatsby info
+  gatsby:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    entrypoint: gatsby
