@@ -3,8 +3,26 @@ title: "Engagement Goals"
 featured: ./images/featured/goals.png
 ---
 
-Auxiliary Engineering is an internal consulting model developed at Wayfair by Jonathan Biddle, Alex Truslow, and Development Platforms.
+## AuxEng Program High Level Goals
 
-Its primary goals are to [diffuse best practices](goals/diffusion.md) across the organization, and [drive platform improvements](goals/platforms.md). There are other secondary benefits such as: enabling [mobility of engineering talent](goals/mobility.md) and providing an attractive [role archetype](goals/careers.md) for experienced software engineers.
+AuxEng is an internal consulting program structure which helps platform teams get significantly closer to the teams they enable. This often helps the platform team [identify previously unknown opportunities](platforms/) to improve other teams effectiveness, and in other cases, it can be useful to debug a team's reluctance to adopt a new tool or a drift away from best practices.
 
-We have run dozens of these engagements across several engineering languages and disciplines disciplines with overwhelming success. We are making this playbook available so other organizations can adopt what we believe is a powerful collaboration and skill sharing model for large organizations.
+In addition to the primary goals, there are multiple secondary goals which are also valuable to organizations.
+
+- It's an effective way of creating [mobility of engineering talent](mobility/) across the organization.
+- It can provide an attractive [engineering role archetype](careers/) for the organization's most experienced software engineers.
+- In addition to those, there are several other [organizational benefits](diffusion/) we've observed in the dozens of engagements we've run.
+
+## Engagement Goals
+
+Engagements can sometimes have different goals under different circumstances. Sometimes those goals will change how the engagement is run. For example, sometimes a shorter engagement of only a few weeks is sufficient to identify why a software team's commit size is increasing while their engineering cycle times are growing longer.
+
+We've used AuxEng to embed with an early adopter of a new tool to create a tight and clear feedback loop which expedites early iterations. The embedded engineer can see first hand how the tool is succeeding (or not) to achieve its own goals.
+
+Here are a few example goals we've come across for specific engagements:
+
+- Drive Adoption of a tool or best practice
+- Rally around a key business strategic goal without minimal disruption to other workstreams
+- Partner with an early adopter to understand how a new solution is being used
+- Debug a behavioral or tooling issue that has been identified
+- Spread knowledge and awareness of a new technology or skillset
