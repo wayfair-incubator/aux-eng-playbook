@@ -9,7 +9,7 @@
     ":rebaseStalePrs"
   ],
   "schedule": [
-    "schedule:earlyMondays"
+    "earlyMondays"
   ],
   "enabledManagers": [
     "github-actions",
