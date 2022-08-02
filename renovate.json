@@ -6,10 +6,8 @@
   ],
   "extends": [
     "config:base",
-    ":rebaseStalePrs"
-  ],
-  "schedule": [
-    "earlyMondays"
+    ":rebaseStalePrs",
+    "schedule:earlyMondays"
   ],
   "enabledManagers": [
     "github-actions",
