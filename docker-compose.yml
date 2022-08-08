@@ -9,6 +9,11 @@ services:
       context: .
       dockerfile: Dockerfile
     command: gatsby develop -H 0.0.0.0
+    volumes:
+      - .:/app # allows sharing of local source files for hot-reloading and gatsby notifs
+      - node_modules:/app/node_modules # isolate and preserve node modules in container between builds
+      - cache:/app/.cache # isolate and preserve container gatsby cache
+      - public:/app/public # isloate and preserve container public artifacts
     ports:
       - "8000:8000"
       - "9929:9929"
@@ -20,3 +25,8 @@ services:
       context: .
       dockerfile: Dockerfile
     entrypoint: gatsby
+
+volumes:
+  node_modules:
+  cache:
+  public:
