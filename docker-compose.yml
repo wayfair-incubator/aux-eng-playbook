@@ -1,10 +1,32 @@
 version: '3.8'
 
-
 services:
-  gatsby:
-    build: ./
+
+  # Run the gatsby server
+  # Usage: docker-compose up -d develop
+  develop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: gatsby develop -H 0.0.0.0
+    volumes:
+      - .:/app # allows sharing of local source files for hot-reloading and gatsby notifs
+      - node_modules:/app/node_modules # isolate and preserve node modules in container between builds
+      - cache:/app/.cache # isolate and preserve container gatsby cache
+      - public:/app/public # isloate and preserve container public artifacts
     ports:
       - "8000:8000"
-    volumes:
-      - .:/app/
+      - "9929:9929"
+
+  # Run gatsby CLI commands
+  # Usage: docker-compose run gatsby info
+  gatsby:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    entrypoint: gatsby
+
+volumes:
+  node_modules:
+  cache:
+  public:
