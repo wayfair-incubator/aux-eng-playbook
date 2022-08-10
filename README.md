@@ -37,6 +37,28 @@ You can edit the site by editing the files in `src/`. This site uses CSS, JS, an
 
 > 💡 Note that for most images, you'll want to run `yarn build` before they show up correctly on the development site.
 
+## 🐳 Docker Setup
+
+If you'd prefer to develop within a container, this project also supports using Docker Compose with hot-reloading capabilites.
+
+First, make sure you have both [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed.
+
+To bring up the `gastby` development server, run:
+
+```shell
+docker-compose down
+docker-compose up -d develop # Remove the -d flag if you don't witsh to daemonize the container
+```
+
+Once the server is up and running, when you make local changes to your `gatsby` site content, the changes should hot-reload in your containerized instance, accessible in a browser at `http://localhost:8000`. Note that it's easier to observe the hot-reloading functionality in action when the container is not daemonized.
+
+If you'd like to interact with the [gatsby-cli](https://www.gatsbyjs.com/docs/reference/gatsby-cli/) directly, you can also run commands like:
+
+```shell
+docker-compose run gatsby --help
+docker-compose run gatsby info # Example commmand to get environment information for debugging
+```
+
 ## Contributing to Docs
 
 If you're here to write some of our plentiful documentation, use these foolproof steps:
