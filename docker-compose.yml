@@ -3,7 +3,7 @@ version: '3.8'
 services:
 
   # Run the gatsby server
-  # Usage: docker-compose up develop
+  # Usage: docker-compose up -d develop
   develop:
     build:
       context: .
