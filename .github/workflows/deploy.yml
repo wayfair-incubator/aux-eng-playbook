@@ -9,12 +9,9 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     container:
-      image: node:16-alpine
+      image: node:alpine
     steps:
       - uses: actions/checkout@v3
-        with:
-          repository: wayfair-incubator/auxeng-docs
-          fetch-depth: 0
       - name: 🔧 install + build # This project is built using npm and outputs the result to the 'build' folder
         run: |
           yarn
