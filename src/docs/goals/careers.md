@@ -10,13 +10,14 @@ Building meaningful career ladders for individual contributors can be a real cha
 ## Influencing without Authority or Dependency
 
 ## WORK IN PROGRESS NOTES
+
 - On Dependency
-    - When someone has unique strength in an area, it's too easy to lean on that person
-    - In the short term, dependency can satisfy one's ego, and it's generally the path of least resistance
-    - In the long run, dependency feels bad, and it also bakes a lot of risk into a team
-    - In a 3 month engagement, the end of the project is always looming on the horizon
-    - This makes it easy to challenge knowledge dependency early on, and prevent single points of knowledge failure from forming
-    - Expectations
+  - When someone has unique strength in an area, it's too easy to lean on that person
+  - In the short term, dependency can satisfy one's ego, and it's generally the path of least resistance
+  - In the long run, dependency feels bad, and it also bakes a lot of risk into a team
+  - In a 3 month engagement, the end of the project is always looming on the horizon
+  - This makes it easy to challenge knowledge dependency early on, and prevent single points of knowledge failure from forming
+  - Expectations
 
 - Breadth of influence across the organization
 - Regularly shaking up their problem domain
@@ -24,16 +25,16 @@ Building meaningful career ladders for individual contributors can be a real cha
 
 - Senior talent enjoys working on a variety of projects
 - Similar to high-end consultant
-    - Feel more connected to results than a consultant
-    - But it's not a 0 sum game like consulting
-    - There's no incentive to build dependency.
+  - Feel more connected to results than a consultant
+  - But it's not a 0 sum game like consulting
+  - There's no incentive to build dependency.
 - Building strength without dependency
-    - There's an explicit goal to NOT build dependency
-    - Healthy knowledge sharing
-    - Feels impactful. One sees the results first hand
+  - There's an explicit goal to NOT build dependency
+  - Healthy knowledge sharing
+  - Feels impactful. One sees the results first hand
 - Large business impact
-    - Moves some of an organizations most talented engineers around the company
-    - Able to influence a large number of projects in healthy ways
-        - Influencing as part of a team, not an outsider disconnected from implementation / results
-    - Avoids "powerpoint" architects. Keeps principal engineers writing code
-        - This helps keep them marketable. It's good for their career.
+  - Moves some of an organizations most talented engineers around the company
+  - Able to influence a large number of projects in healthy ways
+    - Influencing as part of a team, not an outsider disconnected from implementation / results
+  - Avoids "powerpoint" architects. Keeps principal engineers writing code
+    - This helps keep them marketable. It's good for their career.

@@ -69,13 +69,13 @@ Generally these goals fit on one page, and range from code quality metrics to mi
 We only measure the MVP goals once the application is fully deployed and in production.
 We focus on deploying a high quality MVP with a small feature set to production as quickly as possible.
 We generally have a goal measuring production adoption. This could be the rate of flow through an order processing system, or measuring user interactions on a web page.
-This helps prevent us from working on a project that is deployed to production but is never used. 
+This helps prevent us from working on a project that is deployed to production but is never used.
 
 ## Scheduling Meetings
 
-Once we've decided on the project goals and metrics, we start discussing scheduling with the host team. 
+Once we've decided on the project goals and metrics, we start discussing scheduling with the host team.
 We try to line up our projects with the start and end of quarters.
-We also try to give our engineers 3 weeks off between projects to focus on platform work. 
+We also try to give our engineers 3 weeks off between projects to focus on platform work.
 Without some time off between projects it can be easy to burn out.
 Given those constraints, we work with the host team to set up a start and an end date for the project.
 
@@ -115,7 +115,7 @@ We take notes during this meeting, and after we email the notes to everyone that
 came. We try to keep the weekly retros pretty tight, we start them on time and
 end early.
 
-We also score the goals and metrics sheet before the retro, and will review the progress with the team during the retro. 
+We also score the goals and metrics sheet before the retro, and will review the progress with the team during the retro.
 
 ## Project Retros
 

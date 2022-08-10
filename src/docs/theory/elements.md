@@ -3,12 +3,11 @@ title: "Elements"
 featured: ../images/featured/theory.png
 ---
 
-
 # How do I implement my own AuxEng team?
 
 If you are interested in implementing your own AuxEng team, please reach out to `atruslow@wayfair.com`.
 
-In general, the following are core elements of AuxEng. You'll need to implement them to start your AuxEng team. 
+In general, the following are core elements of AuxEng. You'll need to implement them to start your AuxEng team.
 
 Please also review the [AuxEng project structure](../running_engagements/overview.md) and the [AuxEng roles.](../running_engagements/roles.md)
 
@@ -55,14 +54,14 @@ Features that aren't in production are not finished!
 
 We measure test coverage, and we only deliver software with 80% test coverage or greater.
 We limit rework by writing tests and focusing on quality.
-Great tests allow us to move quickly and refactor fearlessly. 
+Great tests allow us to move quickly and refactor fearlessly.
 
 ### Advisor and Engineer roles
 
-We have an explicit project advisor and project engineer, as two distinct roles. 
+We have an explicit project advisor and project engineer, as two distinct roles.
 The engineer does the leg work on the project, leads the retros, pairs with the host team, etc.
-The advisor supports the engineer and gives them feedback and direction. 
-The advisor also can support the engineer by escalating issues with the host team's management. 
+The advisor supports the engineer and gives them feedback and direction.
+The advisor also can support the engineer by escalating issues with the host team's management.
 
 ### Net Promoter Score
 
@@ -70,7 +69,7 @@ At the end of the project we measure our NPS via survey, and we talk about it an
 
 ## AuxEng Anti-Goals
 
-### Superiority 
+### Superiority
 
 We are not toxic experts (we hope).
 When we work with a team they work along side us and they deserve the credit for their projects.
@@ -78,18 +77,16 @@ We are guests on their team, and we are here to help them be successful.
 
 ### "Embedding"
 
-We don't embed with the team to "burn down the backlog". 
+We don't embed with the team to "burn down the backlog".
 We are there to help the host team build a culture of quality and produce better software.
 Often our engineers spend most of their time pairing, and not burning down tickets.
-Embedding can be useful, but normally it is smaller scope and shorter than an AuxEng engagement. 
+Embedding can be useful, but normally it is smaller scope and shorter than an AuxEng engagement.
 
 ### Building Dependency
 
-We are explicitly trying to build up the host team, so they are *not* dependent on us to be successful in the future. 
+We are explicitly trying to build up the host team, so they are *not* dependent on us to be successful in the future.
 
 ### Forcing AuxEng on Teams
 
 We work with teams who are excited to work with us.
-We never force any team to engage with us. 
-
-
+We never force any team to engage with us.
