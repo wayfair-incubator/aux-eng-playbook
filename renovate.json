@@ -7,8 +7,10 @@
   "extends": [
     "config:base",
     ":dependencyDashboard",
-    ":rebaseStalePrs",
-    "schedule:earlyMondays"
+    ":rebaseStalePrs"
+  ],
+  "schedule": [
+    "before 3am every weekday"
   ],
   "enabledManagers": [
     "github-actions",
@@ -17,7 +19,7 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "groupName": "Minor Updates",
+      "groupName": "Minor Packages",
       "automerge": true
     },
     {
