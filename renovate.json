@@ -13,6 +13,8 @@
     "before 3am every weekday"
   ],
   "enabledManagers": [
+    "dockerfile",
+    "docker-compose",
     "github-actions",
     "npm"
   ],
@@ -36,6 +38,10 @@
       "matchPackageNames": ["webpack"],
       "matchPackagePrefixes": ["webpack-"],
       "groupName": "Webpack"
+    },
+    {
+      "matchManagers": ["dockerfile", "docker-compose"],
+      "groupName": "Docker"
     },
     {
       "matchManagers": ["github-actions"],
