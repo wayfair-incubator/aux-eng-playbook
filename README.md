@@ -39,7 +39,7 @@ You can edit the site by editing the files in `src/`. This site uses CSS, JS, an
 
 ## 🐳 Docker Setup
 
-If you'd prefer to develop within a container, this project also supports using Docker Compose with hot-reloading capabilites.
+If you'd prefer to develop within a `node:18-alpine` container, this project also supports using Docker Compose with hot-reloading capabilites for Gatsby.
 
 First, make sure you have both [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed.
 
