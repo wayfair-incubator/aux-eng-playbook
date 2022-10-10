@@ -109,8 +109,8 @@ const Header = () => (
         }}>
           <Link to="/">
           <StaticImage
-            src="../images/aux.png"
-            height={60}
+            src="../images/auxeng.png"
+            height={70}
             formats={["AUTO"]}
             alt="Wayfair Aux Logo"
           />
@@ -121,8 +121,8 @@ const Header = () => (
         <Col sm lg="3">
           <Link to="/">
             <StaticImage
-              src="../images/aux.png"
-              height={40}
+              src="../images/auxeng.png"
+              height={35}
               formats={["AUTO"]}
               alt="Wayfair Aux Logo"
             />

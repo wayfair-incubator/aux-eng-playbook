@@ -40,7 +40,11 @@
   line-height: 32pt;
   color: #612578;
 }
-
+.doc-container h2 > a {
+  font-size: 32pt;
+  line-height: 32pt;
+  color: #612578;
+}
 .doc-container h3 {
   font-size: 24pt;
   line-height:24pt;

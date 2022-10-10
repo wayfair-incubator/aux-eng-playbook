@@ -5,7 +5,7 @@ featured: ../images/featured/running.png
 
 # Auxiliary Engineering Roles
 
-On a project there will generally be two auxiliary engineers working with the host team.
+On a project there will ideally be two auxiliary engineers working with the host team.
 
 ## Project Engineer
 
@@ -20,6 +20,9 @@ The project engineer is generally the face of the project for the host team and 
 
 The project advisor is responsible for the overall success of the project.
 They are responsible for seeing the big picture and ensuring the project is on track overall.
+You might expect the advisor to track progress against goals, communicate with
+the broader organization about progress and collaboration, and provide structure
+to a project's logistics.
 
 The advisor works with the host team before the project to define the goals and schedule of the project.
 They attend the retros, and periodically meet with the host team's leadership.
