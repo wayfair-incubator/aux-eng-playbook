@@ -37,7 +37,8 @@
     {
       "matchPackageNames": ["webpack"],
       "matchPackagePrefixes": ["webpack-"],
-      "groupName": "Webpack"
+      "groupName": "Webpack",
+      "allowedVersions": "5.73.x"
     },
     {
       "matchManagers": ["dockerfile", "docker-compose"],
