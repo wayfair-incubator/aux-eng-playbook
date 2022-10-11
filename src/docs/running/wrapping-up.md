@@ -41,7 +41,7 @@ how they are fairing, and if they feel comfortable maintaining what we built
 together.
 
 We use this sentiment within the team to gauge success of our products'
-maintainence, instead of initial setup and usage. The report that an engaged
+maintenance, instead of initial setup and usage. The report that an engaged
 team can and would provide is usually more candid; compared to what we
 expect from teams that do not have a similar connection.
 

@@ -39,7 +39,7 @@ speaking over email, and/over DM. When asked to describe their problem, commit
 technologists, or other resources, they hesitate. We take the effort in a one-pager
 to heart when considering an engagement. A team that expects a rigid structure
 or form to submit their one-pager idea likely has low resources to affect
-meaningful change in their work habits, and may not recieve the full
+meaningful change in their work habits, and may not receive the full
 benefit AuxEng can provide.
 
 While we don't provide a strict template for a one-pager, we will generally
