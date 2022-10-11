@@ -3,11 +3,11 @@ title: "Running Engagements"
 featured: ./images/featured/running.png
 ---
 
-This section details the procedural structure we use to run Engagements.
-Click into the links provided for more details on any particular process.
+This section details procedural structure we use to run Engagements.
+Click into the links provided for more details on any particular part.
 
 If you're unfamiliar, take a moment to review our project [roles](./roles).
-They clarify who should take responsibility for different stages and systems
+Roles clarify who should take responsibility for different stages and systems
 during an engagement.
 
 ## [Sourcing](./sourcing)
@@ -32,7 +32,7 @@ they wish to adopt.
 After receiving one or more projects, it's important to assess how they
 fit against team, business, and technical goals.
 
-## Planning
+## [Planning](./planning)
 
 _To do before an engagement starts._
 

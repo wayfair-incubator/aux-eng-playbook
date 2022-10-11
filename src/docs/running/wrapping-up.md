@@ -11,7 +11,7 @@ and other clerical work is settled. What now?
 
 Keeping work separate is a constant effort as a team engaging with other
 engineering teams. It's tempting for other teams to view your team as "free
-people" that will work and burn down a backlog.
+people" that will work to simply burn down a backlog.
 
 It's up to a team running AuxEng to keep this work separate, and this line
 becomes especially important to hold after an engagement ends. If a team
@@ -73,9 +73,10 @@ and product wise, from any engagement effort. We use what practices worked for
 us and reconsider the ones that didn't work. Everything we do is up for debate,
 and we use it all to achieve the mission and goals of AuxEng and our team.
 
-It should be mentioned that this process can take a toll on [engineers and advisors](./roles.md).
+It should be mentioned that this process can take a toll on [engineers and advisors](./roles).
 Your Milage Will Vary, but we generally don't expect engineers to want to do
 more than 2 engagements back to back. Anything more will leave folks feeling
 disconnected from the team running Aux engagements.
 
-When you're ready with another good idea, fresh engineers, and a strong fit, roll it back!\
+When you're ready with another good idea, fresh engineers, and a strong fit,
+[roll it back](../running)!
