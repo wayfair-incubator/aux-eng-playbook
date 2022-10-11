@@ -41,7 +41,7 @@ how they are fairing, and if they feel comfortable maintaining what we built
 together.
 
 We use this sentiment within the team to gauge success of our products'
-maintainence, instead of inital setup and usage. The report that an engaged
+maintainence, instead of initial setup and usage. The report that an engaged
 team can and would provide is usually more candid; compared to what we
 expect from teams that do not have a similar connection.
 
@@ -51,7 +51,7 @@ We find connections throughout Wayfair when we practice AuxEng. Sometimes
 those connections make little sense to keep tight relationships with after
 an engagement ends.
 
-Other times, it makes sense to keep a post-engagement set of collegues
+Other times, it makes sense to keep a post-engagement set of colleagues
 together in 1-1 conversations, or regular monthly sync ups. Tech leads can
 give great feedback about the team's progress culturally, individual
 contributors will have the most direct input on how well practices and tools

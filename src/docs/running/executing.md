@@ -4,7 +4,7 @@ featured: ../images/featured/running.png
 ---
 
 We've done it! We've marketed ourselves and set [expectations](./expectations).
-The hard work of [sourcing](./sourcing) and [planning](./planning) is overwith,
+The hard work of [sourcing](./sourcing) and [planning](./planning) is finished,
 our team is now at the meat and potatoes: doing the aux engagement.
 
 ## Weekly Schedule
@@ -18,12 +18,12 @@ We recommend using "80%" time. An [Aux Engineer](./roles) should be with the
 host team for 80% of their week, and use their free 20% to keep notes, sync up
 with their team, and do any other admin work outside **pairing** time. The
 pairing time should be spent doing work to attain the goals of an engagement,
-explicitly **not** burning down backlog items that do not achive an
+explicitly **not** burning down backlog items that do not archive an
 engagement's goals.
 
 ### Pairing
 
-We practice pair programming because we belive:
+We practice pair programming because we believe:
 
 - We share context as fast as possible
 - Pairing solves problems faster

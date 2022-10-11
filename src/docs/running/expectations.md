@@ -11,12 +11,12 @@ worth doing for our team's priority.
 
 This document will outline how we approach engagement in an organization, and
 high-level points to reiterate in a document that should come with any [advisor](./roles.md)
-to any inital meeting.
+to any initial meeting.
 
 ## Set a Baseline
 
 Setting expectations about our team and what will and won't happen in an aux
-engagement is important. We think through these ideas casefully and publish our
+engagement is important. We think through these ideas carefully and publish our
 opinion of how they apply to our team in a conspicuous place. Usually on an
 internal webpage about our team and practices; included in any e-mails or
 internal messages about our team to prospective "away" teams.
@@ -25,7 +25,7 @@ internal messages about our team to prospective "away" teams.
 Aux Engineers can help with what they're able to help with. They cannot
 necessarily crush all problems on a given team -- they can crush problems within
 their domain relevant to the success of an engagement. Fiercely defending the
-time spent on a team is important to ensure maxiumum diffusion and engagement
+time spent on a team is important to ensure maximum diffusion and engagement
 goal progress.
 > **Diffusion is the primary goal and project success is the secondary goal.**
 Diffusion of cultural changes like testing, usage of a standardized tool, etc,
@@ -58,7 +58,7 @@ We take time to emphasize our team's direction and mission. Are we proliferating
 a practice? Is that practice centered around a tool?
 - Why AuxEng?
 In the framework of all the ways a team can engage other teams in an organization,
-it's a reasonable sidenote to mention exactly why AuxEng is the approach that any
+it's a reasonable tangent to mention exactly why AuxEng is the approach that any
 given team is making.
 - What does an embed do?
 An "Embed" is the part of an engagement where AuxEng engineers actually code and

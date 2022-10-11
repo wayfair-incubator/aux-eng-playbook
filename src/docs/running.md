@@ -14,7 +14,7 @@ during an engagement.
 
 _To do before deciding on an engagement._
 
-- **[Set Expecations](./expectations)**
+- **[Set Expectations](./expectations)**
 
 _Make sure teams know what to expect._
 
@@ -62,7 +62,7 @@ _How is/are the engagement, and the goals within, moving along?_
 
 - **[Project Retros / NPS](executing/project-retros)**
 
-_Measuring tean syccess and satisfaction._
+_Measuring team success and satisfaction._
 
 ## [Wrapping Up](./wrapping-up)
 

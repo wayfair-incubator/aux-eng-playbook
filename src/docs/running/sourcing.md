@@ -39,7 +39,7 @@ speaking over email, and/over DM. When asked to describe their problem, commit
 technologists, or other resources, they hesitate. We take the effort in a one-pager
 to heart when considering an engagement. A team that expects a rigid structure
 or form to submit their one-pager idea likely has low resources to affect
-meaningful change in their work habits, and may not receieve the full
+meaningful change in their work habits, and may not recieve the full
 benefit AuxEng can provide.
 
 While we don't provide a strict template for a one-pager, we will generally
@@ -53,7 +53,7 @@ three metrics; business value, technical value, and team fit.
 After some introductions and receiving a project brief via a one-pager, we
 collect our team and make decisions on if we should proceed. To avoid bias
 for or against a particular engagement, we will judge based on three tenets
-important to the success of any project. Business Value, Techincal Value, and
+important to the success of any project. Business Value, Technical Value, and
 Team Fit.
 
 It's best to run this meeting with as much numbers as possible to measure
@@ -84,7 +84,7 @@ that has never been done at Wayfair before.
 
 We also look for projects that will have a major effect on a large team of
 engineers. Projects that further technical goals for leadership or for known
-populations (and/or with measureable gaps in their technical needs) are great
+populations (and/or with measurable gaps in their technical needs) are great
 candidates for high technical value projects. We also consider helping a
 large team move to a more modern paradigm to have high technical value.
 
