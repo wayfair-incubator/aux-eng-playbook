@@ -35,7 +35,7 @@
     "react-cookie": "4.1.1",
     "react-dom": "18.2.0",
     "react-helmet": "6.1.0",
-    "react-icons": "4.4.0",
+    "react-icons": "4.6.0",
     "sass": "1.55.0",
     "uuid": "9.0.0",
     "webpack": "5.73.0"
