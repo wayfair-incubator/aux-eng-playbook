@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:19-alpine
 
 # Expose gatsby + vscode debug ports
 EXPOSE 8000 9929
