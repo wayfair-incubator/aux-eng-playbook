@@ -3,7 +3,7 @@ title: "Sourcing"
 featured: ../images/featured/running.png
 ---
 
-After drumming up interest and [clarifying a team's mission](./expectations.md),
+After drumming up interest and [clarifying a team's mission](../expectations),
 managers and engineers should be ready to find ways to get teams interested.
 This might require a lot of outreach, or there may be tools important
 enough that many people will be delighted to speak with an Aux team. It's important
@@ -20,7 +20,7 @@ Most questions we get and most outline we give stem from the mission of the
 AuxEng team that sponsors the engineer. For example, we might have a team that
 heavily focuses on best practices for Python. We outline how we make life
 better for engineers that use our recommended tools, how we help setup automation
-and quality of life improvements for folks we engage with, and [generally pitch](./expectations.md#prepare-the-pitch)
+and quality of life improvements for folks we engage with, and [generally pitch](../expectations#prepare-the-pitch)
 the value we believe our team can bring.
 
 If the team seems interested in AuxEng, and their project seems like a good fit
@@ -53,7 +53,7 @@ three metrics; business value, technical value, and team fit.
 After some introductions and receiving a project brief via a one-pager, we
 collect our team and make decisions on if we should proceed. To avoid bias
 for or against a particular engagement, we will judge based on three tenets
-important to the success of any project. Business Value, Technical Value, and
+important to the success of any project: Business Value, Technical Value, and
 Team Fit.
 
 It's best to run this meeting with as much numbers as possible to measure

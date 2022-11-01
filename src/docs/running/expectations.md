@@ -10,7 +10,7 @@ teams for extended periods of time, and we have to have engagements that are
 worth doing for our team's priority.
 
 This document will outline how we approach engagement in an organization, and
-high-level points to reiterate in a document that should come with any [advisor](./roles.md)
+high-level points to reiterate in a document that should come with any [advisor](../roles)
 to any initial meeting.
 
 ## Set a Baseline
@@ -21,7 +21,7 @@ opinion of how they apply to our team in a conspicuous place. Usually on an
 internal webpage about our team and practices; included in any e-mails or
 internal messages about our team to prospective "away" teams.
 
-> **Aux engineer will not do the hard work**
+> **Aux Engineer will not do the hard work.**
 Aux Engineers can help with what they're able to help with. They cannot
 necessarily crush all problems on a given team -- they can crush problems within
 their domain relevant to the success of an engagement. Fiercely defending the
@@ -38,7 +38,7 @@ your team -- and encourage that replacements or alternatives have to achieve the
 same goals. For example, retros are a time to understand progress and get
 feedback. Without a replacement, everyone should attend and engage in retros,
 or the model does not mutually benefit engagement "host" and "away" teams.
-> **If failure modes persist, the engagement will ended early**
+> **If failure modes persist, the engagement will end early.**
 Setting the expectation that an engagement must continue working for everyone
 early is important. It will save heartache and pain explaining later to make
 this clear from the get-go: Mutually beneficial engineering time over a 10 week

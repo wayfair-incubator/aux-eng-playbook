@@ -73,10 +73,10 @@ and product wise, from any engagement effort. We use what practices worked for
 us and reconsider the ones that didn't work. Everything we do is up for debate,
 and we use it all to achieve the mission and goals of AuxEng and our team.
 
-It should be mentioned that this process can take a toll on [engineers and advisors](./roles).
+It should be mentioned that this process can take a toll on [engineers and advisors](../roles).
 Your Milage Will Vary, but we generally don't expect engineers to want to do
 more than 2 engagements back to back. Anything more will leave folks feeling
 disconnected from the team running Aux engagements.
 
 When you're ready with another good idea, fresh engineers, and a strong fit,
-[roll it back](../running)!
+[roll it back](../)!

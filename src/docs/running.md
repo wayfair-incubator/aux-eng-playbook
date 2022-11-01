@@ -24,7 +24,7 @@ A Meet and Greet for our team and a team we may want to engage with.
 
 - **[One-Pager](./sourcing#one-pager)**
 
-One-Pagers describe an team's problem, and proposed solution / practices
+One-Pagers describe a team's problem, and proposed solution / practices
 they wish to adopt.
 
 - **[Fit Check](./sourcing#checking-project-fit)**
@@ -60,7 +60,7 @@ _What a week in AuxEng should look like._
 
 _How is/are the engagement, and the goals within, moving along?_
 
-- **[Project Retros / NPS](executing/project-retros)**
+- **[Project Retros / NPS](./executing#project-retros)**
 
 _Measuring team success and satisfaction._
 

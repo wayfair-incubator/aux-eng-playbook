@@ -3,8 +3,8 @@ title: "Planning"
 featured: ../images/featured/running.png
 ---
 
-By the planning phase, we have [set expectations](./expectations.md) for others
-to interact with our team, and [successfully sourced](./sourcing.md) a  project
+By the planning phase, we have [set expectations](../expectations) for others
+to interact with our team, and [successfully sourced](../sourcing) a  project
 for to work on. Our team will now make an effort to plan for, and plan out the
 specifics of, an engagement.
 

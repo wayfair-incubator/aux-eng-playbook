@@ -3,8 +3,8 @@ title: "Executing"
 featured: ../images/featured/running.png
 ---
 
-We've done it! We've marketed ourselves and set [expectations](./expectations).
-The hard work of [sourcing](./sourcing) and [planning](./planning) is finished,
+We've done it! We've marketed ourselves and set [expectations](../expectations).
+The hard work of [sourcing](../sourcing) and [planning](../planning) is finished,
 our team is now at the meat and potatoes: doing the aux engagement.
 
 ## Weekly Schedule
@@ -14,7 +14,7 @@ together.
 
 ### 80% Time
 
-We recommend using "80%" time. An [Aux Engineer](./roles) should be with the
+We recommend using "80%" time. An [Aux Engineer](../roles) should be with the
 host team for 80% of their week, and use their free 20% to keep notes, sync up
 with their team, and do any other admin work outside **pairing** time. The
 pairing time should be spent doing work to attain the goals of an engagement,
