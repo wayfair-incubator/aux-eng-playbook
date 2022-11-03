@@ -109,8 +109,8 @@ const Header = () => (
         }}>
           <Link to="/">
           <StaticImage
-            src="../images/aux.png"
-            height={60}
+            src="../images/auxeng.png"
+            height={70}
             formats={["AUTO"]}
             alt="Wayfair Aux Logo"
           />
@@ -118,11 +118,13 @@ const Header = () => (
         </Col>
       </Row>
       <Row className="d-none d-lg-flex">
-        <Col sm lg="3">
+        <Col sm lg="3" style={{
+          marginTop: "3px"
+        }}>
           <Link to="/">
             <StaticImage
-              src="../images/aux.png"
-              height={40}
+              src="../images/auxeng.png"
+              height={35}
               formats={["AUTO"]}
               alt="Wayfair Aux Logo"
             />
