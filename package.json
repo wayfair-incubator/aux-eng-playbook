@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "author": "Gary White Jr. <gwhite@wayfair.com>",
   "dependencies": {
-    "@babel/core": "7.19.6",
+    "@babel/core": "7.20.2",
     "bootstrap": "5.2.2",
     "gatsby": "4.24.7",
     "gatsby-plugin-gatsby-cloud": "4.24.1",
@@ -36,7 +36,7 @@
     "react-dom": "18.2.0",
     "react-helmet": "6.1.0",
     "react-icons": "4.6.0",
-    "sass": "1.55.0",
+    "sass": "1.56.1",
     "uuid": "9.0.0",
     "webpack": "5.73.0"
   },
