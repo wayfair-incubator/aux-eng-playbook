@@ -3,7 +3,7 @@ title: "Platform"
 featured: ../images/featured/goals.png
 ---
 
-In Auxilliary Engineering, we move out to consumer teams from a product team to solve problems and learn more about our products. The tools and products that an engineering support team puts out are that team's _platform_. Our goal in doing this is to enrich the platform, and the experience of those using it.
+In Auxiliary Engineering, we move out to consumer teams from a product team to solve problems and learn more about our products. The tools and products that an engineering support team puts out are that team's _platform_. Our goal in doing this is to enrich the platform, and the experience of those using it.
 
 A Python Platform team would provide tools that make Python simple to use and operate. A team focused on testing may maintain a continuous integration pipeline infrastructure, or testing frameworks. A Kubernetes-centric team may provide templates and automation to make interacting with Kubernetes simple for critical team operations and application development.
 
@@ -19,7 +19,7 @@ We believe in this methodology. A goal of any engagement in AuxEng is to provide
 
 When an engineer works with another team, they are pair programming with the intended users of a platform. Part of that experience includes seeing where their products fall short or don't solve a problem effectively. If it takes 20 minutes to learn how to use a tool that saves 20 minutes, people will likely not use that tool. An Aux Engineer can learn this during an engagement; then learn the ways that their users _expect_ software or platforms to work (this is a less-data-driven approach to _measuring_ the success of any built changes). The Aux Engineer can relay feedback and proposed changes during or after the engagement (sharing _learning_) to appropriately serve real users engaging with a platform.
 
-The contributions an Aux Engineer can glean are hugely valueable. Keep in mind: they're doing this not only to serve a platform team's product and roadmap. Aux Eng actively moves the needs of the business forward, faster, by connecting experts in a domain/platform with others that need help engaging in that space. In our experience, that exposure from our team into our user teams is as valueable as building a critical change into our platform.
+The contributions an Aux Engineer can glean are hugely valuable. Keep in mind: they're doing this not only to serve a platform team's product and roadmap. Aux Eng actively moves the needs of the business forward, faster, by connecting experts in a domain/platform with others that need help engaging in that space. In our experience, that exposure from our team into our user teams is as valuable as building a critical change into our platform.
 
 ### Off-Engagements
 
