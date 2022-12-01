@@ -1,5 +1,5 @@
 ---
-title: "Engagement Goals"
+title: "Aux Eng Goals"
 featured: ./images/featured/goals.png
 ---
 
@@ -13,7 +13,7 @@ In addition to the primary goals, there are multiple secondary goals which are a
 - It can provide an attractive [engineering role archetype](careers/) for the organization's most experienced software engineers.
 - In addition to those, there are several other [organizational benefits](diffusion/) we've observed in the dozens of engagements we've run.
 
-## Engagement Goals
+## Goals Per Engagement
 
 Engagements can sometimes have different goals under different circumstances. Sometimes those goals will change how the engagement is run. For example, sometimes a shorter engagement of only a few weeks is sufficient to identify why a software team's commit size is increasing while their engineering cycle times are growing longer.
 
