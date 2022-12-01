@@ -6,7 +6,7 @@ featured: ../images/featured/theory.png
 TODO:
 * how to identify, avoid these situations
 
-An auxiliary engagement is a hopeful endeavor; there is no guarantee of success.
+An Auxiliary Engagement is a hopeful endeavor; there is no guarantee of success.
 An engagement can suffer from a number of failure modes, some easier to identify
 than others. The failure modes are typical of all software engineering, but can
 be especially potent in this context given the short timeline of an engagement.
