@@ -34,7 +34,7 @@ be especially potent in this context given the short timeline of an engagement.
     commits to a large idea on paper but does not execute, and cancelled
     partnerships mid-engagement.
 
-1. **Lack of improvements to Platform layer**  
+1. **Lack of improvements to platform layer**  
     If the embedded engineer does not leave an engagement having identified
     potential improvements to platform tooling, this is a missed opportunity.
     Embedding on a team and operating as a contractor is missing the opportunity
