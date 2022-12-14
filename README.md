@@ -1,10 +1,12 @@
-# Aux Eng Docs
+# Aux Eng Playbook
 
-A collection of documentation related to how Wayfair Engineering has implemented "[Auxiliary Engineering](https://www.aboutwayfair.com/tech-innovation/what-is-auxiliary-engineering)"
-
-[![Release](https://img.shields.io/github/v/release/wayfair-incubator/auxeng-docs?display_name=tag)](https://github.com/wayfair-incubator/auxeng-docs/releases)
-[![License: BSD 0-Clause](https://img.shields.io/badge/License-BSD%200--Clause-7462E0.svg)](LICENSE)
+[![Deploy](https://github.com/wayfair-incubator/aux-eng-playbook/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/wayfair-incubator/aux-eng-playbook/actions/workflows/deploy.yml)
+[![Release](https://img.shields.io/github/v/release/wayfair-incubator/aux-eng-playbook?display_name=tag)](https://github.com/wayfair-incubator/aux-eng-playbook/releases)
+[![License: BSD 0-Clause](https://img.shields.io/badge/License-BSD%200--Clause-orange.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-24B8EE.svg)](CODE_OF_CONDUCT.md)
+[![Maintainer](https://img.shields.io/badge/Maintainer-Wayfair-7F187F)](https://wayfair.github.io)
+
+A comprehensive playbook for technology leaders interested in introducing [Auxiliary Engineering](https://www.aboutwayfair.com/tech-innovation/what-is-auxiliary-engineering) to their engineering organization. The [Aux Eng Playbook](https://github.com/wayfair-incubator/aux-eng-playbook) aims to document Wayfair Technology's pioneering implementation of Aux Eng while sharing key takeaways, learnings, and recipes for success.
 
 ## 🚀 Quick Start
 
