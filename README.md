@@ -8,7 +8,7 @@ A collection of documentation related to how Wayfair Engineering has implemented
 
 ## 🚀 Quick Start
 
-To get started editing this site, you'll need Node v14+. We recommend using [nvm](https://github.com/nvm-sh/nvm).
+To get started editing this site, you'll need Node v14+, and preferably v19. We recommend using [nvm](https://github.com/nvm-sh/nvm).
 
 Once that's installed, you'll need [`yarn`](https://yarnpkg.com/) as well.
 
@@ -40,7 +40,7 @@ You can edit the site by editing the files in `src/`. This site uses CSS, JS, an
 
 ## 🐳 Docker Setup
 
-If you'd prefer to develop within a `node:18-alpine` container, this project also supports using Docker Compose with hot-reloading capabilites for Gatsby.
+If you'd prefer to develop within a `node:19-alpine` container, this project also supports using Docker Compose with hot-reloading capabilites for Gatsby.
 
 First, make sure you have both [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed.
 
