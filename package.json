@@ -1,9 +1,9 @@
 {
   "name": "aux-eng-playbook",
   "private": true,
-  "description": "A playbook for technologists introducing Aux Eng to their engineering organization",
+  "description": "Wayfair Tech's playbook for building and supporting an Auxiliary Engineering program",
   "version": "0.0.2",
-  "author": "Wayfair Open Source <opensource@wayfair.com>",
+  "author": "Wayfair Open Source <OpenSource@wayfair.com>",
   "dependencies": {
     "@babel/core": "7.20.2",
     "bootstrap": "5.2.2",
