@@ -6,7 +6,7 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-24B8EE.svg)](CODE_OF_CONDUCT.md)
 [![Maintainer](https://img.shields.io/badge/Maintainer-Wayfair-7F187F)](https://wayfair.github.io)
 
-A playbook for technologists interested in introducing [Auxiliary Engineering](https://www.aboutwayfair.com/tech-innovation/what-is-auxiliary-engineering) to their engineering organization. The [Aux Eng Playbook](https://github.com/wayfair-incubator/aux-eng-playbook) aims to document Wayfair Technology's pioneering implementation of Aux Eng while sharing key takeaways, learnings, and recipes for success.
+A playbook for technologists interested in introducing [Auxiliary Engineering](https://www.aboutwayfair.com/tech-innovation/what-is-auxiliary-engineering) to their engineering organization. The [Aux Eng Playbook](https://github.com/wayfair-incubator/aux-eng-playbook) aims to document Wayfair Tech's pioneering implementation of Aux Eng programs while sharing key takeaways, learnings, and recipes for success.
 
 ## 🚀 Quick Start
 
