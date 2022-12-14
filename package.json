@@ -1,9 +1,9 @@
 {
-  "name": "auxeng-docs",
+  "name": "aux-eng-playbook",
   "private": true,
-  "description": "A documentation site by Auxiliary Engineers at Wayfair",
-  "version": "0.0.1",
-  "author": "Gary White Jr. <gwhite@wayfair.com>",
+  "description": "A playbook for technologists introducing Aux Eng to their engineering organization",
+  "version": "0.0.2",
+  "author": "Wayfair Open Source <opensource@wayfair.com>",
   "dependencies": {
     "@babel/core": "7.20.2",
     "bootstrap": "5.2.2",
@@ -62,9 +62,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wayfair-incubator/auxeng-docs"
+    "url": "https://github.com/wayfair-incubator/aux-eng-playbook"
   },
   "bugs": {
-    "url": "https://github.com/wayfair-incubator/auxeng-docs/issues"
+    "url": "https://github.com/wayfair-incubator/aux-eng-playbook/issues"
   }
 }
