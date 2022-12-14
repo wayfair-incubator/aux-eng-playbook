@@ -1,29 +1,10 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "Renovate configuration recommended by the Wayfair OSPO",
-  "labels": [
-    "renovate/{{depName}}"
-  ],
+  "description": "Wayfair OSPO recommended presets (https://github.com/wayfair/ospo-automation/blob/main/default.json)",
   "extends": [
-    "config:base",
-    ":dependencyDashboard",
-    ":rebaseStalePrs"
-  ],
-  "schedule": [
-    "before 3am every weekday"
-  ],
-  "enabledManagers": [
-    "dockerfile",
-    "docker-compose",
-    "github-actions",
-    "npm"
+    "github>wayfair/ospo-automation"
   ],
   "packageRules": [
-    {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "groupName": "Minor Packages",
-      "automerge": true
-    },
     {
       "matchPackageNames": ["gatsby"],
       "matchPackagePrefixes": ["gatsby-"],
@@ -43,10 +24,6 @@
     {
       "matchManagers": ["dockerfile", "docker-compose"],
       "groupName": "Docker"
-    },
-    {
-      "matchManagers": ["github-actions"],
-      "groupName": "GitHub Actions"
     }
   ]
 }
