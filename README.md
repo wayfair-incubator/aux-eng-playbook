@@ -10,7 +10,7 @@ A comprehensive playbook for technology leaders interested in introducing [Auxil
 
 ## 🚀 Quick Start
 
-To get started editing this site, you'll need Node v14+, and preferably v19. We recommend using [nvm](https://github.com/nvm-sh/nvm).
+To get started editing this site, you'll need Node v14+, and _preferably_ v19. We recommend using [nvm](https://github.com/nvm-sh/nvm).
 
 Once that's installed, you'll need [`yarn`](https://yarnpkg.com/) as well.
 
@@ -30,7 +30,7 @@ yarn develop
 Plenty of information may show, but you should eventually see something like:
 
 ```shell
-You can now view AuEngDocs in the browser.
+You can now view Aux Eng Playbook in the browser.
 
   http://localhost:8000/
 
