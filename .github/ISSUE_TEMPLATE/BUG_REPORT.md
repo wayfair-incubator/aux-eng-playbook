@@ -31,5 +31,6 @@ Please provide the version number where this issue was encountered.
 
 ## Checklist
 
-- [ ] I have read the [contributing guidelines](https://github.com/wayfair-incubator/aux-eng-playbook/blob/main/CONTRIBUTING.md)
+- [ ] I have read the [contributing
+  guidelines](https://github.com/wayfair-incubator/aux-eng-playbook/blob/main/CONTRIBUTING.md)
 - [ ] I have verified this does not duplicate an existing issue
