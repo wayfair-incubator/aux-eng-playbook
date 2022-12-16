@@ -8,7 +8,7 @@ featured: ../images/featured/goals.png
 - Synthesize the product function
 - Justifying funding for the platform team can be difficult as it is indirect
   business value
-- AuxEng allows you to staff a platform team up with senior talent while still
+- Aux Eng allows you to staff a platform team up with senior talent while still
   directly contributing to business outcomes
 - Knowing the right problems to solve can be difficult. Being embedded brings
   challenges, low hanging fruit to the surface.
@@ -17,7 +17,7 @@ featured: ../images/featured/goals.png
   - Seeing a junior engineer struggle makes points of friction clear
   - Engineers experiencing pain don't always realize when something is easy to
     improve.
-- Giving AuxEngineers 1 day per week to make self-directed investments /
+- Giving Aux Engineers 1 day per week to make self-directed investments /
   explorations in the platform gives them is powerful
   - Self-direction is powerful. Process adds friction
   - Short feedback loops. Experience pain -> Solve problem

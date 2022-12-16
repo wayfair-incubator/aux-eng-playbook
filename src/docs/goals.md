@@ -3,9 +3,9 @@ title: "Aux Eng Goals"
 featured: ./images/featured/goals.png
 ---
 
-## AuxEng Program High-Level Goals
+## Aux Eng Program High-Level Goals
 
-AuxEng is an internal consulting program structure which helps platform teams
+Aux Eng is an internal consulting program structure which helps platform teams
 get significantly closer to the teams they enable. This often helps the platform
 team [identify previously unknown opportunities](platforms/) to improve other
 teams' effectiveness. In other cases, it can be useful to debug a team's
@@ -29,7 +29,7 @@ sometimes a shorter engagement of only a few weeks is sufficient to identify why
 a software team's commit size is increasing while their engineering cycle times
 are growing longer.
 
-We've used AuxEng to embed with an early adopter of a new tool, creating a tight
+We've used Aux Eng to embed with an early adopter of a new tool, creating a tight
 and clear feedback loop which expedites early iterations. The embedded engineer
 can see firsthand how the tool is succeeding (or not) in achieving its desired
 outcomes.
