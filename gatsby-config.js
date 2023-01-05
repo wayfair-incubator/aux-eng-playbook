@@ -1,10 +1,10 @@
 module.exports = {
-  pathPrefix: "/auxeng-docs",
+  pathPrefix: "/aux-eng-playbook/",
   siteMetadata: {
     title: `Wayfair Open Source`,
     description: `Home of the Open Source Program Office and Wayfair specific documenting for working with OSS`,
     author: `opensource@wayfair.com`,
-    siteUrl: `https://wayfair-incubator.github.io/auxeng-docs`,
+    siteUrl: `https://wayfair-incubator.github.io/aux-eng-playbook/`,
     keywords: [`opensource`, `wayfair`, `Wayfair`, `OSS`, `OSPO`],
   },
   plugins: [
@@ -43,8 +43,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-robots-txt`,
       options: {
-        host: `https://wayfair-incubator.github.io/auxeng-docs`,
-        sitemap: `https://wayfair-incubator.github.io/auxeng-docs/sitemap/sitemap-index.xml`,
+        host: `https://wayfair-incubator.github.io/aux-eng-playbook/`,
+        sitemap: `https://wayfair-incubator.github.io/aux-eng-playbook//sitemap/sitemap-index.xml`,
         policy: [{ userAgent: `*`, allow: `/` }],
       },
     },
@@ -87,8 +87,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `wayfair-incubator.github.io/auxeng-docs`,
-        short_name: `wayfair-incubator.github.io/auxeng-docs`,
+        name: `wayfair-incubator.github.io/aux-eng-playbook/`,
+        short_name: `wayfair-incubator.github.io/aux-eng-playbook/`,
         background_color: `#FFF`,
         theme_color: `#612578`,
         display: `minimal-ui`,
