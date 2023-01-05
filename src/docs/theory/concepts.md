@@ -5,7 +5,7 @@ featured: ../images/featured/theory.png
 
 # Auxiliary Engineering Concepts
 
-AuxEng takes inspiration from several models including Software Consulting,
+Aux Eng takes inspiration from several models including Software Consulting,
 Embedded Engineering, and Matrix Reporting. However, it's important to recognize
 that it is distinct from all of those. It is uniquely focused on facilitating a
 lasting transformative effect on a team, circulating best practices across a
@@ -14,11 +14,11 @@ key concepts which are key to executing on this model.
 
 ## Limited Duration of Engagements
 
-AuxEng projects should last no more than a quarter. This has multiple benefits:
+Aux Eng projects should last no more than a quarter. This has multiple benefits:
 
 - Creates a healthy sense of focused urgency on achieving a clearly scoped MVP
-- Allows the AuxEng program to engage with many teams in a year
-- Discourages building dependency on AuxEng
+- Allows the Aux Eng program to engage with many teams in a year
+- Discourages building dependency on Aux Eng
 
 ## Self-directed days
 
@@ -34,12 +34,12 @@ consistently for everyone on Friday to achieve the following benefits:
 
 ## A strong focus on self-sufficiency
 
-There is a very real risk and temptation for a host team to push on AuxEng to
+There is a very real risk and temptation for a host team to push on Aux Eng to
 implement complex features independently, but we state this clearly as a failure
-mode of a project. AuxEng is constantly looking out for things that would erode
+mode of a project. Aux Eng is constantly looking out for things that would erode
 a team's self-sufficiency, and therefore are keen to pair with engineers on the
 host team for complex features. This ensures that upon completion of the
-project, a host team does not end up reliant on AuxEng for future iterations.
+project, a host team does not end up reliant on Aux Eng for future iterations.
 
 ## Technical goals are expressed as business value
 

@@ -18,7 +18,7 @@ the same engagement.
 
 ## Host Team / "Away" Team
 
-A Host team is any team that engages with a home team through AuxEng. Put
+A Host team is any team that engages with a home team through Aux Eng. Put
 another way: any team that makes use of a team offering engineers through Aux
 Engagements. A Host Team should have resources dedicated to pair programming
 during the engagement. However: it is the job of the Home team to drive culture
@@ -28,7 +28,7 @@ On a project there should be at least 2 folks working with the host team.
 
 ## Project Engineer
 
-The project engineer is responsible for running the day to day of the AuxEng
+The project engineer is responsible for running the day to day of the Aux Eng
 project. This includes running retros, attending standup, leading workshops,
 pairing with engineers, writing tests, helping with features, etc. The project
 engineer works with the host team from Monday through Thursday. On Fridays (or

@@ -7,7 +7,7 @@ featured: ../images/featured/goals.png
 
 - Senior talent can be strategically moved around the organization with little
   cost
-- AuxEng is design to not build dependency on the guest engineers
+- Aux Eng is design to not build dependency on the guest engineers
 - Team receiving a new engineer feels the gains, but team losing the engineer
   doesn't feel pain
 - Engagements can be staggered to be starting every month or so, meaning

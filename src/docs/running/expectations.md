@@ -28,7 +28,7 @@ an engagement. Fiercely defending the time spent on a team is important to
 ensure maximum diffusion and engagement goal progress. **Diffusion is the
 primary goal and project success is the secondary goal.** Diffusion of cultural
 > changes like testing, usage of a standardized tool, etc, should come second to
-achieving some particular engagement goal. AuxEng is used at Wayfair to
+achieving some particular engagement goal. Aux Eng is used at Wayfair to
 proliferate usage of a tool or practice, not to burn down backlogs for any team.
 **Weekly retros and schedules are important. Critical feedback is strongly
  encouraged.** It's important to understand what scheduled rituals are important
@@ -48,15 +48,15 @@ goals.
 
 The general flow we've used in pitch meetings goes something like this:
 
-- What is AuxEng? Simply clarify key words, tools, and layout of your team and
-AuxEng. We explain embeds, engagements, trainings, and other ways our team may
+- What is Aux Eng? Simply clarify key words, tools, and layout of your team and
+Aux Eng. We explain embeds, engagements, trainings, and other ways our team may
 engage with an organization.
 - What is (team)? We take time to emphasize our team's direction and mission.
 Are we proliferating a practice? Is that practice centered around a tool?
-- Why AuxEng? In the framework of all the ways a team can engage other teams in
-an organization, it's a reasonable tangent to mention exactly why AuxEng is the
+- Why Aux Eng? In the framework of all the ways a team can engage other teams in
+an organization, it's a reasonable tangent to mention exactly why Aux Eng is the
 approach that any given team is making.
-- What does an embed do? An "Embed" is the part of an engagement where AuxEng
+- What does an embed do? An "Embed" is the part of an engagement where Aux Eng
 engineers actually code and help a team. Hopefully this guide and website gives
 enough of a definition that you feel ready to answer this question.
 - How do we get started? This is where much of the framework we've said so far

@@ -54,7 +54,7 @@ _Doing the work._
 
 - **[Weekly Schedule](./executing#weekly-schedule)**
 
-_What a week in AuxEng should look like._
+_What a week in Aux Eng should look like._
 
 - **[Weekly Retros](./executing#weekly-retros)**
 
