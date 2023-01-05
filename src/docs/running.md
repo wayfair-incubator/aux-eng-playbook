@@ -3,8 +3,8 @@ title: "Running Engagements"
 featured: ./images/featured/running.png
 ---
 
-This section details procedural structure we use to run Engagements.
-Click into the links provided for more details on any particular part.
+This section details procedural structure we use to run Engagements. Click into
+the links provided for more details on any particular part.
 
 If you're unfamiliar, take a moment to review our project [roles](./roles).
 Roles clarify who should take responsibility for different stages and systems
@@ -24,13 +24,13 @@ A Meet and Greet for our team and a team we may want to engage with.
 
 - **[One-Pager](./sourcing#one-pager)**
 
-One-Pagers describe a team's problem, and proposed solution / practices
-they wish to adopt.
+One-Pagers describe a team's problem, and proposed solution / practices they
+wish to adopt.
 
 - **[Fit Check](./sourcing#checking-project-fit)**
 
-After receiving one or more projects, it's important to assess how they
-fit against team, business, and technical goals.
+After receiving one or more projects, it's important to assess how they fit
+against team, business, and technical goals.
 
 ## [Planning](./planning)
 

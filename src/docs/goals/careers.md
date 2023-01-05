@@ -5,7 +5,12 @@ featured: ../images/featured/goals.png
 
 ## A New Senior Contributor Archetype
 
-Building meaningful career ladders for individual contributors can be a real challenge. One of the ways to support someone's career is to give them multiple role archetypes to choose from, and letting them play on their strengths. One of the goals of Auxiliary Engineering is to give senior engineers a new archetype which feels challenging, rewarding, and well aligned with their long term career success and ambitions.
+Building meaningful career ladders for individual contributors can be a real
+challenge. One of the ways to support someone's career is to give them multiple
+role archetypes to choose from, and letting them play on their strengths. One of
+the goals of Auxiliary Engineering is to give senior engineers a new archetype
+which feels challenging, rewarding, and well aligned with their long term career
+success and ambitions.
 
 ## Diversity by Design
 
