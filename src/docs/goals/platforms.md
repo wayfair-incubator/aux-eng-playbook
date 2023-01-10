@@ -60,7 +60,7 @@ team success and productivity.
 It's a goal of Aux Eng programs to bring perspective and understanding of the
 software landscape and engineering culture back to a platform team. After
 working with teams in one or many spaces separate from the platform team,
-an engineer will promote difficulty that real teams have using products and
+an engineer will convey difficulty that real teams have using products and
 processes back to a platform team. Our goal is to ultimately influence a
 product roadmap or design choices in a system toward the needs of actual users.
 
