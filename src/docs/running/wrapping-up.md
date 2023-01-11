@@ -13,7 +13,7 @@ Keeping work separate is a constant effort as a team engaging with other
 engineering teams. It's tempting for other teams to view your team as "free
 people" that will work to simply burn down a backlog.
 
-It's up to a team running AuxEng to keep this work separate, and this line
+It's up to a team running Aux Eng to keep this work separate, and this line
 becomes especially important to hold after an engagement ends. If a team
 continues to expect more than a reasonable helping hand after an engagement
 ends, something has gone wrong. Remember that the work for your team is on your
@@ -27,7 +27,7 @@ always alleviate any confusion.
 
 ## Three Month Check-in
 
-We care deeply that our AuxEng projects are set up for long term success.
+We care deeply that our Aux Eng projects are set up for long term success.
 Although during the project we focus on getting the host teams MVP into prod, we
 hope that the projects we work on have a long term impact.
 
@@ -35,7 +35,7 @@ Three months after the project is finished we have an informal check-in with the
 host team. We are interested in any feedback they have for us, and want to hear
 how the project is shaping up after we left.
 
-We are wary of the host team building too much dependency on AuxEng, which is a
+We are wary of the host team building too much dependency on Aux Eng, which is a
 failure in our eyes. During the three month check-in we ask the host team about
 how they are fairing, and if they feel comfortable maintaining what we built
 together.
@@ -47,7 +47,7 @@ teams that do not have a similar connection.
 
 ## Following Up
 
-We find connections throughout Wayfair when we practice AuxEng. Sometimes those
+We find connections throughout Wayfair when we practice Aux Eng. Sometimes those
 connections make little sense to keep tight relationships with after an
 engagement ends.
 
@@ -70,7 +70,7 @@ We measure success from an engagement with business and technical goals
 achieved. We wse NPS to understand how a hosting team felt about the progress
 technically, and product wise, from any engagement effort. We use what practices
 worked for us and reconsider the ones that didn't work. Everything we do is up
-for debate, and we use it all to achieve the mission and goals of AuxEng and our
+for debate, and we use it all to achieve the mission and goals of Aux Eng and our
 team.
 
 It should be mentioned that this process can take a toll on [engineers and

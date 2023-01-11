@@ -13,25 +13,25 @@ chance of driving value for an Aux Home team's goals in engagements.
 ## Intro Meetings
 
 We regularly have teams approach us; looking for advice on building new
-services. We will explain to the team what our AuxEng program is and give them
+services. We will explain to the team what our Aux Eng program is and give them
 some general direction on how to proceed with their project.
 
 Most questions we get and most outline we give stem from the mission of the
-AuxEng team that sponsors the engineer. For example, we might have a team that
+Aux Eng team that sponsors the engineer. For example, we might have a team that
 heavily focuses on best practices for Python. We outline how we make life better
 for engineers that use our recommended tools, how we help setup automation and
 quality of life improvements for folks we engage with, and [generally
 pitch](../expectations#prepare-the-pitch) the value we believe our team can
 bring.
 
-If the team seems interested in AuxEng, and their project seems like a good fit
+If the team seems interested in Aux Eng, and their project seems like a good fit
 for us, then we ask them to submit a one page document describing what they
 intend to build.
 
 ## One-Pager
 
 We ask teams to submit a one page document describing what they intend to build
-when they express interest in AuxEng. This allows us to see a condensed version
+when they express interest in Aux Eng. This allows us to see a condensed version
 of their project. It also gives us an artifact to discuss internally.
 
 The commitment we can expect from a team will also be apparent from one-pager.
@@ -41,7 +41,7 @@ technologists, or other resources, they hesitate. We take the effort in a
 one-pager to heart when considering an engagement. A team that expects a rigid
 structure or form to submit their one-pager idea likely has low resources to
 affect meaningful change in their work habits, and may not receive the full
-benefit AuxEng can provide.
+benefit Aux Eng can provide.
 
 While we don't provide a strict template for a one-pager, we will generally want
 a problem statement, wish list, and some goals (business and technical).
@@ -91,7 +91,7 @@ team move to a more modern paradigm to have high technical value.
 
 We normally pair with a team for three months, so we really care about team fit.
 Having poor team fit can ruin an otherwise good project, and cause unnecessary
-friction between AuxEng and the host team. We will discuss problems can be
+friction between Aux Eng and the host team. We will discuss problems can be
 logistical, or technical, or both.
 
 Logistically, a team may prefer to hold their stand-up at 6 PM, while an aux
@@ -99,7 +99,7 @@ engineer must be clocked out by 5. They may have a distributed team that makes
 it difficult to effectively pair with reasonable overlap across time zones.
 We've seen teams that even prefer to have night owls working late into the
 night, and take some of the next day off. The working habits of our team must
-meaningfully overlap to have a successful AuxEng engagement.
+meaningfully overlap to have a successful Aux Eng engagement.
 
 Technically, we write tests for our code, and we believe that high test coverage
 allows us to move faster, onboard engineers quicker, and refactor more easily.
@@ -107,4 +107,4 @@ We deeply believe in testing, linting, containerized development, maintaining
 high test coverage, and CI/CD. Some teams believe these practices will "slow
 them down" and will "block them from deploying". Writing tests is a skill, at
 first it is hard and can take work to learn. If a team isn't interested in
-learning to write tests then they are not a good fit for AuxEng.
+learning to write tests then they are not a good fit for Aux Eng.

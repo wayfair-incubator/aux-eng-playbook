@@ -3,19 +3,19 @@ title: "Elements"
 featured: ../images/featured/theory.png
 ---
 
-# How do I implement my own AuxEng team?
+# How do I implement my own Aux Eng team?
 
-If you are interested in implementing your own AuxEng team, please reach out to
+If you are interested in implementing your own Aux Eng team, please reach out to
 `atruslow@wayfair.com`.
 
-In general, the following are core elements of AuxEng. You'll need to implement
-them to start your AuxEng team.
+In general, the following are core elements of Aux Eng. You'll need to implement
+them to start your Aux Eng team.
 
-Please also review the [AuxEng project
-structure](../running_engagements/overview.md) and the [AuxEng
+Please also review the [Aux Eng project
+structure](../running_engagements/overview.md) and the [Aux Eng
 roles.](../running_engagements/roles.md)
 
-## Elements of AuxEng
+## Elements of Aux Eng
 
 ### Free Fridays
 
@@ -24,15 +24,15 @@ Thursday. On Fridays they should be working on self directed projects relating
 to their time with the host team.
 
 This is important for two reasons. First, it is really easy to get burnt out
-doing AuxEng five days a week. Second, it is important for the auxiliary
+doing Aux Eng five days a week. Second, it is important for the auxiliary
 engineer to bring back learnings from their engagement. "Free Fridays" are a
 great time to address feedback rapidly, creating an extremely tight feedback
 loop for improvements. If the auxiliary engineer doesn't have time to bring back
-user feedback to your team you are missing an explicit goal of AuxEng.
+user feedback to your team you are missing an explicit goal of Aux Eng.
 
 ### 10 Week Project Duration
 
-AuxEng is about committing to an ambitious goal, and then partnering with a team
+Aux Eng is about committing to an ambitious goal, and then partnering with a team
 to deliver it quickly with high code quality. Ambitious goals generally take a
 quarter.
 
@@ -41,7 +41,7 @@ engagement gives enough time for new coding habits to settle in.
 
 ### Weekly Retros
 
-We hold weekly 30 minute retros specific to the AuxEng project. This is in
+We hold weekly 30 minute retros specific to the Aux Eng project. This is in
 addition to any retros the host team is running. We hold them even when there is
 "nothing to talk about". We take notes and send them out to all participants. We
 keep the retro notes in git so we can reference back to them at any point in the
@@ -87,7 +87,7 @@ the host team's management.
 At the end of the project we measure our NPS via survey, and we talk about it
 and socialize it (even if it isn't great).
 
-## AuxEng Anti-Goals
+## Aux Eng Anti-Goals
 
 ### Superiority
 
@@ -101,14 +101,14 @@ We don't embed with the team to "burn down the backlog". We are there to help
 the host team build a culture of quality and produce better software. Often our
 engineers spend most of their time pairing, and not burning down tickets.
 Embedding can be useful, but normally it is smaller scope and shorter than an
-AuxEng engagement.
+Aux Eng engagement.
 
 ### Building Dependency
 
 We are explicitly trying to build up the host team, so they are *not* dependent
 on us to be successful in the future.
 
-### Forcing AuxEng on Teams
+### Forcing Aux Eng on Teams
 
 We work with teams who are excited to work with us. We never force any team to
 engage with us.
