@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "author": "Wayfair Open Source <OpenSource@wayfair.com>",
   "dependencies": {
-    "@babel/core": "7.20.5",
+    "@babel/core": "8.0.5",
     "bootstrap": "5.2.3",
     "gatsby": "4.24.8",
     "gatsby-plugin-gatsby-cloud": "4.24.1",
