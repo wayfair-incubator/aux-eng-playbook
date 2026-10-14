@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: 🔨 add git + rsync # Install git and rsync in alpine linux container
         run: apk add git rsync --update-cache
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
       - name: 🔧 install + build # This project is built using npm and outputs the result to the 'build' folder
         run: |
           yarn
